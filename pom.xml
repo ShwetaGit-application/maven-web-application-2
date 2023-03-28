@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>IMFBank Releases Nexus Repository</name>
-	      <url>http://13.232.79.52:9980/imfbank/repository/imf-release/</url>
+	      <url>http://172.31.32.134:9980/imfbank/repository/imf-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>IMFBank Snapshot Nexus Repository </name>
-	      <url>http://13.232.79.52:9980/imfbank/repository/imf-snapshot/</url>
+	      <url>http://172.31.32.134:9980/imfbank/repository/imf-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
